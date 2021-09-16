@@ -8,12 +8,8 @@ export declare const baseColors: {
     success: string;
     warning: string;
 };
-export declare const additionalColors: {
+export declare const brandColors: {
     binance: string;
-    overlay: string;
-    gold: string;
-    silver: string;
-    bronze: string;
 };
 export declare const lightColors: Colors;
 export declare const darkColors: Colors;
